@@ -1,0 +1,10 @@
+C:\Users\Pc\source\repos\Benzerlik_Oran\Benzerlik_Oran\bin\Debug\Benzerlik_Oran.exe.config
+C:\Users\Pc\source\repos\Benzerlik_Oran\Benzerlik_Oran\bin\Debug\Benzerlik_Oran.exe
+C:\Users\Pc\source\repos\Benzerlik_Oran\Benzerlik_Oran\bin\Debug\Benzerlik_Oran.pdb
+C:\Users\Pc\source\repos\Benzerlik_Oran\Benzerlik_Oran\obj\Debug\Benzerlik_Oran.Form1.resources
+C:\Users\Pc\source\repos\Benzerlik_Oran\Benzerlik_Oran\obj\Debug\Benzerlik_Oran.Properties.Resources.resources
+C:\Users\Pc\source\repos\Benzerlik_Oran\Benzerlik_Oran\obj\Debug\Benzerlik_Oran.csproj.GenerateResource.cache
+C:\Users\Pc\source\repos\Benzerlik_Oran\Benzerlik_Oran\obj\Debug\Benzerlik_Oran.exe
+C:\Users\Pc\source\repos\Benzerlik_Oran\Benzerlik_Oran\obj\Debug\Benzerlik_Oran.pdb
+C:\Users\Pc\source\repos\Benzerlik_Oran\Benzerlik_Oran\obj\Debug\Benzerlik_Oran.Form2.resources
+C:\Users\Pc\source\repos\Benzerlik_Oran\Benzerlik_Oran\obj\Debug\Benzerlik_Oran.Form3.resources
