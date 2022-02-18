@@ -1,1 +1,1 @@
-# Decalculation_of_similarity_ratios_between_images
+# Calculation_of_similarity_ratios_between_images
